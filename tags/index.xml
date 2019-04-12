@@ -5,10 +5,28 @@
     <link>https://shwchurchdotgithub.github.io/tags/</link>
     <description>Recent content in Tags on 北京守望教会</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <lastBuildDate>Fri, 12 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shwchurchdotgithub.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Main</title>
+      <link>https://shwchurchdotgithub.github.io/tags/main/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shwchurchdotgithub.github.io/tags/main/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://shwchurchdotgithub.github.io/tags/news/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shwchurchdotgithub.github.io/tags/news/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
