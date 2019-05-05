@@ -1,6 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <?xml-stylesheet type="text/xsl" href="https://shwchurchdotgithub.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://shwchurchdotgithub.github.io/categories/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shwchurchdotgithub.github.io/news/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shwchurchdotgithub.github.io/post/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shwchurchdotgithub.github.io/tags/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shwchurchdotgithub.github.io/categories/main/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shwchurchdotgithub.github.io/tags/main/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shwchurchdotgithub.github.io/categories/news/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shwchurchdotgithub.github.io/tags/news/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shwchurchdotgithub.github.io/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
   <url>
     <loc>https://shwchurchdotgithub.github.io/post/20190414/</loc>
@@ -18,69 +71,6 @@
   
   <url>
     <loc>https://shwchurchdotgithub.github.io/about/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shwchurchdotgithub.github.io/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shwchurchdotgithub.github.io/categories/main/</loc>
-    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shwchurchdotgithub.github.io/tags/main/</loc>
-    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shwchurchdotgithub.github.io/news/</loc>
-    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shwchurchdotgithub.github.io/categories/news/</loc>
-    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shwchurchdotgithub.github.io/tags/news/</loc>
-    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shwchurchdotgithub.github.io/post/</loc>
-    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shwchurchdotgithub.github.io/tags/</loc>
-    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shwchurchdotgithub.github.io/</loc>
-    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
